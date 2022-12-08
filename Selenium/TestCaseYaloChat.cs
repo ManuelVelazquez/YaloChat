@@ -26,6 +26,7 @@ namespace Selenium
            
               
             //adding commit Manuel Velazquez
+            //adding manually
         }
         public TestCaseYaloChat (IWebDriver driver)
         {
