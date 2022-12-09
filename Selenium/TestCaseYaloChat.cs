@@ -32,6 +32,7 @@ namespace Selenium
             //continue with main
             //change in the server
             //hola local
+            //serverrrrrrrr
         }
         public TestCaseYaloChat (IWebDriver driver)
         {
