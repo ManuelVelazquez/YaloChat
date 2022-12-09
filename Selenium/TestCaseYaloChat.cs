@@ -29,6 +29,7 @@ namespace Selenium
             //adding manually
             //adding second commit
             //continue with main
+            //change in the server
         }
         public TestCaseYaloChat (IWebDriver driver)
         {
