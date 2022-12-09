@@ -24,7 +24,8 @@ namespace Selenium
             driver.Manage().Window.Maximize();
             TC_Guru99Validation(driver);
            
-            //Hola  
+
+            //Hola.  
             //ManuelMerge2222
             //adding manually
             //adding second commit
